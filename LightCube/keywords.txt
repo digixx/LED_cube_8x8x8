@@ -1,0 +1,45 @@
+#######################################
+# 
+Syntax Coloring Map LightCube 
+########################################
+#######################################
+#
+Datatypes (KEYWORD1)
+########################################
+
+LightCube	KEYWORD1
+
+#######################################
+# 
+Methods and Functions (KEYWORD2)
+########################################
+
+clc	KEYWORD2
+
+All	KEYWORD2
+dot	KEYWORD2
+UtoD_scan	KEYWORD2
+
+LtoR_scan	KEYWORD2
+
+RtoL_scan	KEYWORD2
+FtoB_scan	KEYWORD2
+
+BtoF_scan	KEYWORD2
+
+Acw	KEYWORD2
+
+Cw	KEYWORD2
+RCw	KEYWORD2
+cube	KEYWORD2
+rain	KEYWORD2
+up	KEYWORD2
+DtoU_scan	KEYWORD2
+xuanzhuantiao	KEYWORD2
+qumianxuanzhuan	KEYWORD2
+sandglass	KEYWORD2
+subtitle	KEYWORD2
+#######################################
+# 
+Constants (LITERAL1)
+########################################
